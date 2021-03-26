@@ -2,6 +2,7 @@ package com.proyectx.demo.controllers;
 
 import com.proyectx.demo.models.UsuarioModel;
 import com.proyectx.demo.services.UsuarioService;
+import com.proyectx.demo.services.servicesImpl.UsuarioServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
